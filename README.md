@@ -12,14 +12,14 @@
 </h1>
 
 
-<b>Contact me :</b>
+# Contact me :
 
 Mail : [zeinali.mahdy@gmail.com](zeinali.mahdy@gmail.com)\
 Telegram : [zeinali_mahdi](https://t.me/zeinali_mahdi)\
 Github Page : [mahdizynali](https://github.com/mahdizynali) 
 
 
-<b>Top Repositories :</b>
+# Top Repositories :
   
 [jimbo-v2ray](https://github.com/mahdizynali/jimbo-v2ray) : cudflare ip scanner and automatically generate v2ray configs (vless or vmess) \
 [Soccer-robot-playground](https://github.com/mahdizynali/Soccer-Robot-Playground) : c++ opencv, simulation of humanoid soccer robots playground field \
