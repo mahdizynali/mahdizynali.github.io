@@ -23,5 +23,6 @@ Github Page : [mahdizynali](https://github.com/mahdizynali)
 Top Repositories :
   
 [jimbo-v2ray](https://github.com/mahdizynali/jimbo-v2ray) : cudflare ip scanner and automatically generate v2ray configs (vless or vmess) \
-Telegram : [zeinali_mahdi](https://t.me/zeinali_mahdi)\
-Github Page : [mahdizynali](https://github.com/mahdizynali)
+[Soccer-robot-playground](https://github.com/mahdizynali/Soccer-Robot-Playground) : c++ opencv, simulation of humanoid soccer robots playground field \
+[jimbo-v2ray](https://github.com/mahdizynali/jimbo-v2ray) : cudflare ip scanner and automatically generate v2ray configs (vless or vmess) \
+[jimbo-v2ray](https://github.com/mahdizynali/jimbo-v2ray) : cudflare ip scanner and automatically generate v2ray configs (vless or vmess) \
