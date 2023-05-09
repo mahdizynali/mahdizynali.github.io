@@ -20,10 +20,8 @@ Telegram : [zeinali_mahdi](https://t.me/zeinali_mahdi)\
 Github Page : [mahdizynali](https://github.com/mahdizynali)
   </h2>
 
-<h3 align="left">
 Top Repositories :
   
-Mail : [zeinali.mahdy@gmail.com](zeinali.mahdy@gmail.com)\
+[jimbo-v2ray](https://github.com/mahdizynali/jimbo-v2ray) : cudflare ip scanner and automatically generate v2ray configs (vless or vmess) \
 Telegram : [zeinali_mahdi](https://t.me/zeinali_mahdi)\
 Github Page : [mahdizynali](https://github.com/mahdizynali)
-  </h3>
