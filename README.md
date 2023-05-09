@@ -14,10 +14,10 @@
 <h2 align="left">
   <br>
 
-Contact me :\
-Mail : [zeinali.mahdy@gmail.com](zeinali.mahdy@gmail.com)\
-Telegram : [zeinali_mahdi](https://t.me/zeinali_mahdi)\
-Github Page : [mahdizynali](https://github.com/mahdizynali)
+  Contact me :\
+  Mail : [zeinali.mahdy@gmail.com](zeinali.mahdy@gmail.com)\
+  Telegram : [zeinali_mahdi](https://t.me/zeinali_mahdi)\
+  Github Page : [mahdizynali](https://github.com/mahdizynali)
   </h2>
 
 Top Repositories :
