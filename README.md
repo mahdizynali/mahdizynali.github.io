@@ -24,5 +24,5 @@ Top Repositories :
   
 [jimbo-v2ray](https://github.com/mahdizynali/jimbo-v2ray) : cudflare ip scanner and automatically generate v2ray configs (vless or vmess) \
 [Soccer-robot-playground](https://github.com/mahdizynali/Soccer-Robot-Playground) : c++ opencv, simulation of humanoid soccer robots playground field \
-[jimbo-v2ray](https://github.com/mahdizynali/jimbo-v2ray) : cudflare ip scanner and automatically generate v2ray configs (vless or vmess) \
+[OpenCV-video-multiprocessing](https://github.com/mahdizynali/OpenCV-video-multiprocessing) : video or images multiprocessing and tkinter multiprocessing\
 [jimbo-v2ray](https://github.com/mahdizynali/jimbo-v2ray) : cudflare ip scanner and automatically generate v2ray configs (vless or vmess) \
