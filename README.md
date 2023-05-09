@@ -11,16 +11,16 @@
   <a href="https://github.com/mahdizynali"><img src="https://avatars.githubusercontent.com/u/104717705?v=4" alt="mahdizynali" width="200"></a>
 </h1>
 
-<h2 align="left">
-  <br>
 
-  Contact me :\
-  Mail : [zeinali.mahdy@gmail.com](zeinali.mahdy@gmail.com)\
-  Telegram : [zeinali_mahdi](https://t.me/zeinali_mahdi)\
-  Github Page : [mahdizynali](https://github.com/mahdizynali)
-  </h2>
+<b>Contact me :</b>
 
-Top Repositories :
+Mail : [zeinali.mahdy@gmail.com](zeinali.mahdy@gmail.com)\
+Telegram : [zeinali_mahdi](https://t.me/zeinali_mahdi)\
+Github Page : [mahdizynali](https://github.com/mahdizynali) 
+
+# 
+
+<b>Top Repositories :</b>
   
 [jimbo-v2ray](https://github.com/mahdizynali/jimbo-v2ray) : cudflare ip scanner and automatically generate v2ray configs (vless or vmess) \
 [Soccer-robot-playground](https://github.com/mahdizynali/Soccer-Robot-Playground) : c++ opencv, simulation of humanoid soccer robots playground field \
