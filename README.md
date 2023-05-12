@@ -16,7 +16,7 @@
 
 Mail : [zeinali.mahdy@gmail.com](zeinali.mahdy@gmail.com)\
 Telegram : [zeinali_mahdi](https://t.me/zeinali_mahdi)\
-Github Page : [mahdizynali](https://github.com/maze80) 
+Github Page : [maze80](https://github.com/maze80) 
 
 
 # Top Repositories :
