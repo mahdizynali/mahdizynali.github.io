@@ -6,7 +6,7 @@
 <meta name="keywords" content="mahdi zeinali, mahdizynali, mrl-hsl, mrl, hsl, zeinali, mahdi zynali, maze, maze80">
 
 <html>
-<body style="background-color:Gray;">
+<body style="background-color:LightGray;">
 
   <h1 align="center">
     <br>
