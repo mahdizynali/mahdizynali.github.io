@@ -5,12 +5,16 @@
 <meta name="copyright" content="mahdi zeinali 2023">
 <meta name="keywords" content="mahdi zeinali, mahdizynali, mrl-hsl, mrl, hsl, zeinali, mahdi zynali, maze, maze80">
 
+<html>
+<body style="background-color:aquamarine;">
 
 <h1 align="center">
   <br>
   <a href="https://github.com/mahdizynali"><img src="https://avatars.githubusercontent.com/u/104717705?v=4" alt="maze80" width="200"></a>
 </h1>
-
+  
+</body>
+</html>
 
 # Contact me :
 
