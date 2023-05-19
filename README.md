@@ -6,17 +6,13 @@
 <meta name="keywords" content="mahdi zeinali, mahdizynali, mrl-hsl, mrl, hsl, zeinali, mahdi zynali, maze, maze80">
 
 <html>
-   <style>
-      body {
-         background-color: rgb(20,30, 1);
-      }
-   </style>
+<body style="background-color:Gray;">
 
   <h1 align="center">
     <br>
     <a href="https://github.com/mahdizynali"><img src="https://avatars.githubusercontent.com/u/104717705?v=4" alt="maze80" width="200"></a>
   </h1>
-  
+</body>  
 </html>
 
 # Contact me :
