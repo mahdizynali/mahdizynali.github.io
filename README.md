@@ -26,5 +26,6 @@ Github Page : [mahdizynali](https://github.com/mahdizynali)
   
 [jimbo-v2ray](https://github.com/mahdizynali/jimbo-v2ray) : cudflare ip scanner and automatically generate v2ray configs (vless or vmess) \
 [Soccer-robot-playground](https://github.com/mahdizynali/Soccer-Robot-Playground) : c++ opencv, simulation of humanoid soccer robots playground field \
+[Earth-Map-Route-Planning](https://github.com/mahdizynali/Earth-Map-Route-Planning) : Routes planning on Earth map with opencv and c++ \
 [OpenCV-video-multiprocessing](https://github.com/mahdizynali/OpenCV-video-multiprocessing) : video or images multiprocessing and tkinter multiprocessing\
 [Unet-Brain-Tumor-detection](https://github.com/mahdizynali/UNet-Brain-Tumor-Detection) : Brain tumor detection based on pytorch and unet neural-network
